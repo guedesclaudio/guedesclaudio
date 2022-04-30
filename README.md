@@ -1,7 +1,7 @@
-##Olá! Eu sou o Claudio Guedes
+## Olá! Eu sou o Claudio Guedes
 
-- 👀 Tenho interesse em desenvolvimento web
-- 🌱 Tenho me dedicado bastante em JavaScript, Python, HTML e CSS
+- 👀 Tenho interesse em Desenvolvimento Web
+- 🌱 Tenho me dedicado bastante em Front-End com JavaScript, HTML e CSS. Além de possuir conhecimentos em Python.
 - :computer: Estou buscando meu primeiro emprego como Desenvolvedor Júnior
 
 
