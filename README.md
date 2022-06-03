@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Claudio Guedes
 
-- 👀 Tenho interesse em Desenvolvimento Web
-- 🌱 Tenho me dedicado bastante em Front-End com JavaScript, HTML, CSS e Bootstrap. Além de possuir conhecimentos em Python.
-- :computer: Estou buscando meu primeiro emprego como Desenvolvedor Júnior
+- 👀 Interesse em Desenvolvimento Web
+- 🌱 Aplicação em Front-End com JavaScript, HTML, CSS e Bootstrap. Conhecimentos em Python
+- :mortar_board: Cursando o bootcamp da Driven Education
+- :computer: Em busca do meu primeiro emprego como Desenvolvedor Júnior
 
 
 <div align="center">
