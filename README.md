@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AECDF&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++Olá+pessoal!+Eu+sou+dev!++;Bem+Vindo+ao+meu+perfil+Github!;Hello!+I'm+a+developer!;Welcome+to+my+Github+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AECDF&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++Olá+pessoal!++;Bem+vindos+ao+meu+perfil+Github!;Hello!+I'm+a+developer!;Welcome+to+my+Github+profile!">
 </p>
 
-## Olá! Eu sou o Claudio Guedes
+## :wave: Eu sou o Claudio Guedes
 
 - :brain: Interesse em Desenvolvimento Web
 - 🌱 Aplicação em Front-End com JavaScript, HTML, CSS e Bootstrap. Conhecimentos em Python
