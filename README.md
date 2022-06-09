@@ -13,8 +13,8 @@
 ## Meu github status
 <div align="center">
   <a href="https://github.com/guedesclaudio">
-  <img height="120px" width="400px" src="https://github-readme-stats.vercel.app/api?username=guedesclaudio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedesclaudio&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150px" width="400px" src="https://github-readme-stats.vercel.app/api?username=guedesclaudio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedesclaudio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Tecnologias
