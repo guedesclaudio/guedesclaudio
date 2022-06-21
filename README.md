@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AECDF&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++Olá+pessoal!++;Bem+vindos+ao+meu+perfil+Github!;Hello!+I'm+a+developer!;Welcome+to+my+Github+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AECDF&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB++Olá+pessoal!++;Bem+vindos+ao+meu+perfil+Github!;">
 </p>
 
 ## :wave: Eu sou o Claudio Guedes
