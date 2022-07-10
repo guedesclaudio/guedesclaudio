@@ -6,8 +6,8 @@
 
 - :brain: Interesse em Desenvolvimento de software
 - 🌱 Aplicações Front-End
-- :mortar_board: Cursando o bootcamp de desenvolvimento de software full stack da Driven Education
-- :computer: 
+- :mortar_board: Oceanógrafo em formação na UERJ e cursando o bootcamp de desenvolvimento de software full stack da Driven Education
+- :computer: Acesse meu porfólio 
 <br>
 
 ## Meu github status
