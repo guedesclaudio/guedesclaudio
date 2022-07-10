@@ -5,9 +5,9 @@
 ## :wave: Eu sou o Claudio Guedes
 
 - :brain: Interesse em Desenvolvimento de software
-- 🌱 Aplicação em Front-End com JavaScript, HTML, CSS e Bootstrap. Conhecimentos em Python
+- 🌱 Aplicações Front-End
 - :mortar_board: Cursando o bootcamp de desenvolvimento de software full stack da Driven Education
-- :computer: Em busca do meu primeiro emprego como Desenvolvedor Júnior
+- :computer: 
 <br>
 
 ## Meu github status
