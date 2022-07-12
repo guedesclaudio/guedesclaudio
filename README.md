@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AECDF&lines=Seja+bem+vindo+ao+meu+Github!;">
-</p>
-
-## :wave: Eu sou o Claudio Guedes
+## :wave: Olá pessoa! Eu sou o Claudio Guedes
 
 - :brain: Interesse em Desenvolvimento de software
 - 🌱 Aplicações Front-End
