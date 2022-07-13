@@ -27,6 +27,8 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
  </div>
   <br>
+  <p align="center"><b>HTML5, CSS3. Bootstrap, JavaScript, ReactJS, Node.js, Python, Git, GitHub, Linux <b/></p>
+  <br>
   
 ## Contato
 <div align="center"> 
