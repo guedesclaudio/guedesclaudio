@@ -1,4 +1,4 @@
-## :wave: Olá pessoa! Eu sou o Claudio Guedes
+## :wave: Olá pessoal! Eu sou o Claudio Guedes
 
 - :brain: Interesse em Desenvolvimento de software
 - 🌱 Aplicações Front-End
