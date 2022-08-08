@@ -1,7 +1,7 @@
 ## :wave: Olá pessoal! Eu sou o Claudio Guedes
 
 - :brain: Interesse em Desenvolvimento de software
-- 🌱 Aplicações Front-End
+- 🌱 Aplicações web
 - :mortar_board: Oceanógrafo em formação na UERJ e cursando o bootcamp de desenvolvimento de software full stack da Driven Education
 - :computer: Acesse meu porfólio https://guedesclaudio.github.io/portfolio/
 <br>
