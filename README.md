@@ -2,7 +2,7 @@
 
 - :brain: Interesse em Desenvolvimento de software
 - 🌱 Aplicações web
-- :mortar_board: Cursando o bootcamp de desenvolvimento de software full stack da Driven Education
+- :mortar_board: Cursando o bootcamp de desenvolvimento de software full stack da Driven Education e concluindo a faculdade de Oceanografia na UERJ
 - :computer: Acesse meu porfólio https://guedesclaudio.github.io/portfolio/
 <br>
 
