@@ -1,8 +1,10 @@
 ## :wave: Olá pessoal! Eu sou o Claudio Guedes
 
+- &#9889; Desenvolvevor full stack júnior
 - :brain: Interesse em Desenvolvimento de software
 - 🌱 Aplicações web
-- :mortar_board: Cursando o bootcamp de desenvolvimento de software full stack da Driven Education e concluindo a faculdade de Oceanografia na UERJ
+- &#9935; Experiência em aplicações web utilizando principalmente React e Node.js
+- &#9193; Próximos desafios: TypeScript e PostgreSQL
 <br>
 
 ## Meu github status
