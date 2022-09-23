@@ -2,7 +2,6 @@
 
 - &#9889; Desenvolvevor full stack júnior
 - :brain: Interesse em desenvolvimento de software
-- 🌱 Aplicações web
 - &#9935; Experiência em aplicações web utilizando principalmente React e Node.js
 - &#9193; Próximos desafios: TypeScript e PostgreSQL
 <br>
