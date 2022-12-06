@@ -1,6 +1,6 @@
 ## :wave: Olá pessoal! Eu sou o Claudio Guedes
 
-- &#9889; Desenvolvevor full stack júnior
+- &#9889; Desenvolvevor full stack
 - :brain: Interesse em desenvolvimento de software
 - &#9935; Experiência em aplicações web utilizando principalmente React e Node.js
 - &#9193; Próximos desafios: Docker e AWS
