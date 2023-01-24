@@ -2,8 +2,7 @@
 
 - &#9889; Desenvolvevor full stack
 - :brain: Interesse em desenvolvimento de software
-- &#9935; Experiência em aplicações web utilizando principalmente React e Node.js
-- &#9193; Próximos desafios: Docker e AWS
+- &#9935; Experiência em aplicações web utilizando principalmente React, Node.js e TypeScript
 <br>
 
 ## Meu github status
@@ -25,11 +24,11 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
  </div>
   <br>
-  <p align="center"><b>HTML5, CSS3, JavaScript, TypeScript, React, Node.js, MongoDB, PostgreSQL, Jest, Git, GitHub, Linux <b/></p>
+  <p align="center"><b>HTML5, CSS3, JavaScript, TypeScript, React, Node.js, MongoDB, PostgreSQL, Jest, Git, Linux <b/></p>
   <br>
   
 ## Contato
