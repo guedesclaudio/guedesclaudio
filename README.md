@@ -1,18 +1,21 @@
-## :wave: Olá pessoal! Eu sou o Claudio Guedes
+## :wave: Olá pessoal! Sejam bem vindos!
 
-- &#9889; Desenvolvevor full stack
-- :brain: Interesse em desenvolvimento de software
-- &#9935; Experiência em aplicações web utilizando principalmente React, Node.js e TypeScript
+- &#9889; Meu nome é Claudio Guedes e sou Desenvolvevor full stack
+- :brain: Possuo interesse em desenvolvimento de software
+- &#9935; Atualmente estou trabalhando em aplicações web utilizando principalmente React, Node.js e TypeScript
 <br>
 
 ## Meu github status
+- :computer: Um pouco do que venho fazendo durante os últimos tempos
+- Nesse momento estou focado em um novo desafio na empresa em que estou trabalhando, por isso os commits por aqui deram uma pausa :wink:
 <div align="center">
   <a href="https://github.com/guedesclaudio">
   <img height="150px" width="400px" src="https://github-readme-stats.vercel.app/api?username=guedesclaudio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedesclaudio&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedesclaudio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Tecnologias
+  - :computer: As tecnologias que mais utilizo são:
  <div style="display: inline_block" align="center"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,13 +25,9 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
  </div>
   <br>
-  <p align="center"><b>HTML5, CSS3, JavaScript, TypeScript, React, Node.js, MongoDB, PostgreSQL, Jest, Git, Linux <b/></p>
+  <p align="center"><b>HTML5, CSS3, JavaScript, TypeScript, React, Node.js, MongoDB, PostgreSQL<b/></p>
   <br>
   
 ## Contato
