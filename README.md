@@ -1,13 +1,13 @@
-## :wave: Olá pessoal! Sejam bem vindos!
+## :wave: Hello! Welcome to my profile!
 
-- &#9889; Meu nome é Claudio Guedes e sou Desenvolvevor full stack
-- :brain: Possuo interesse em desenvolvimento de software
-- &#9935; Atualmente estou trabalhando em aplicações web utilizando principalmente React, Node.js e TypeScript
+- &#9889; My name is Claudio Guedes and i'm software developer
+- :brain: Actually, i'm working with web apps, using Node.js and React
+- &#9935; I'm working in a health tech enterprise, helping a thousands people all over Brasil
 <br>
 
 ## Meu github status
-- :computer: Um pouco do que venho fazendo durante os últimos tempos
-- Nesse momento estou focado em um novo desafio na empresa em que estou trabalhando, por isso os commits por aqui deram uma pausa :wink:
+- :computer: A little of i'm making during the last times.
+- At the moment i'm focused on a new challenge in the enterprise of i work, so the commits are paused over here :wink:
 <div align="center">
   <a href="https://github.com/guedesclaudio">
   <img height="150px" width="400px" src="https://github-readme-stats.vercel.app/api?username=guedesclaudio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -15,7 +15,7 @@
 </div>
 
 ## Tecnologias
-  - :computer: As tecnologias que mais utilizo são:
+  - :computer: The technoligies i use most:
  <div style="display: inline_block" align="center"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
