@@ -5,7 +5,7 @@
 - &#9935; I'm working in a health tech enterprise, helping a thousands people all over Brasil
 <br>
 
-## Meu github status
+## My github status
 - :computer: A little of i'm making during the last times.
 - At the moment i'm focused on a new challenge in the enterprise of i work, so the commits are paused over here :wink:
 <div align="center">
@@ -14,7 +14,7 @@
   <img height="150px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedesclaudio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Tecnologias
+## Technoligies
   - :computer: The technoligies i use most:
  <div style="display: inline_block" align="center"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,7 +30,7 @@
   <p align="center"><b>HTML5, CSS3, JavaScript, TypeScript, React, Node.js, MongoDB, PostgreSQL<b/></p>
   <br>
   
-## Contato
+## Contact
 <div align="center"> 
   <a href = "mailto:cgsarmentosilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/claudio-guedes-0144b91a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
