@@ -14,8 +14,8 @@
   <img height="150px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedesclaudio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Technoligies
-  - :computer: The technoligies i use most:
+## Technologies
+  - :computer: The technologies i use most:
  <div style="display: inline_block" align="center"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
