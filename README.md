@@ -1,13 +1,12 @@
 ## :wave: Hello! Welcome to my profile!
 
-- &#9889; My name is Claudio Guedes and i'm software developer
-- :brain: Actually, i'm working with web apps, using Node.js and React
-- &#9935; I'm working in a health tech enterprise, helping a thousands people all over Brasil
+- &#9889; My name is Claudio Guedes, and I'm a software developer.
+- :brain: Currently, I specialize in building web applications using Node.js and React.
+- &#9935; I work at a health tech company, helping thousands of people across Brazil.
 <br>
 
 ## My github status
-- :computer: A little of i'm making during the last times.
-- At the moment i'm focused on a new challenge in the enterprise of i work, so the commits are paused over here :wink:
+- At the moment i'm focused on a new challenge at the company of I work, so my commits are paused for now :wink:
 <div align="center">
   <a href="https://github.com/guedesclaudio">
   <img height="150px" width="400px" src="https://github-readme-stats.vercel.app/api?username=guedesclaudio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -15,7 +14,7 @@
 </div>
 
 ## Technologies
-  - :computer: The technologies i use most:
+  - :computer: The technologies I use most:
  <div style="display: inline_block" align="center"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
